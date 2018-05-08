@@ -1,0 +1,4 @@
+# connect to MongoDB using the following URL
+mongo-url = "mongodb://10.101.20.10:27017"
+# connect to the Elasticsearch REST API at the following URLs
+elasticsearch-urls = ["http://10.101.20.1:9200"]
