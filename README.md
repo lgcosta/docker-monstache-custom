@@ -5,8 +5,8 @@ Referencies: https://rwynn.github.io/monstache-site/
 Build:
 ```
 cd /tmp
-git clone ...
-cd ...
+git clone https://github.com/lgcosta/docker-monstache-custom.git
+cd docker-monstache-custom
 docker build -t monstache-custom:latest .
 ```
 
